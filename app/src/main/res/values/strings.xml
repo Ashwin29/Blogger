@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Velammal-ITech</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot password</string>
+    <string name="create_account">Create Account</string>
+    <string name="register">Register</string>
+    <string name="facultyPass">Faculty Pass</string>
+    <string name="Enter">Enter</string>
+    <string name="Submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="reNomail">RegNo@velammalit.com</string>
+    <string name="title">Title</string>
+    <string name="activities">Activities</string>
+    <string name="additionalInfo">Additional Information</string>
+    <string name="skillDeployment">Skill Deployment</string>
+    <string name="description">Description goes here...</string>
+    <string name="socialPresence">Social Presence</string>
+    <string name="fb">Facebook</string>
+    <string name="github">GitHub</string>
+    <string name="education">Education</string>
+    <string name="blogs">Blogs</string>
+    <string name="instagram">Instagram</string>
+    <string name="linkedin">linkedIn</string>
+    <string name="resetEmail">Reset Email</string>
+    <string name="notUpd">Not Updated</string>
+    <string name="othernetworks">Other Networks</string>
+    <string name="defaultNo">0</string>
+    <string name="defaultSigns">/</string>
+    <string name="resume">Resume</string>
+    <string name="defaultMax">100</string>
+    <string name="percentage">%</string>
+    <string name="status">Status</string>
+    <string name="follow">Follow</string>
+    <string name="upload">Upload Files</string>
+    <string name="pauseUpl">Pause Upload</string>
+    <string name="fileName">FileName</string>
+    <string name="format">.type</string>
+    <string name="achievements">Achievements</string>
+    <string name="cancelUpl">Cancel Upload</string>
+    <string name="uplMsg">Your File is Uploading :)</string>
+    <string name="edit">Edit</string>
+    <string name="addFrd">Add Friend</string>
+    <string name="post">Post your thoughts</string>
+    <string name="percentageHSC">Percentage in HSC</string>
+    <string name="percentageSSLC">Percentage in SSLC</string>
+    <string name="CGPA">CGPA</string>
+    <string name="Skills">Skills</string>
+    <string name="aboutYourself">About Yourself</string>
+    <string name="technicalSkills">Technical Skills</string>
+    <string name="interpersonalSkills">Interpersonal Skills</string>
+    <string name="marketingSkills">Marketing Skills</string>
+    <string name="postBtn">Post</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_main_page">MainPage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_students__login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

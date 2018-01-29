@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5d6cbf</color>
+    <color name="colorPrimaryDark">#FF586DB9</color>
+    <color name="colorAccent">#6a58b9</color>
+    <color name="login_text">#666489</color>
+    <color name="card_bg">#FF847994</color>
+    <color name="button">#FF6F6479</color>
+    <color name="button_pressed">#483e51</color>
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+</resources>

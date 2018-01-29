@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.winision.velammalitapp.Timeline"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="560dp"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/timeline"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bg"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="510dp">
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="10dp"
+            android:src="@mipmap/ic_settings_white_48dp"
+            android:id="@+id/settings"/>
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="15dp"
+            android:src="@mipmap/ic_perm_identity_white_48dp"
+            android:layout_marginTop="2dp"
+            android:id="@+id/searchMemFab"/>
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:src="@mipmap/ic_action_attachment"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="2dp"
+            android:id="@+id/downloadMaterials"/>
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:src="@mipmap/ic_folder_special_white_48dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="2dp"
+            android:id="@+id/resumeFab"/>
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="15dp"
+            android:src="@mipmap/ic_supervisor_account_white_48dp"
+            android:layout_marginTop="2dp"
+            android:id="@+id/frdsFab"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
